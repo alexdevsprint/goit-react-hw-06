@@ -19,4 +19,9 @@ ul {
 
 img {
   display: block;  
+  width: 100%;
+}
+
+button:hover {
+  cursor: pointer;
 }
